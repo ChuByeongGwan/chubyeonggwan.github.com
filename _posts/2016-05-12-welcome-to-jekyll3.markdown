@@ -1,3 +1,6 @@
+이름 : 추병관
+학번 : 2011136133
+나이 : 25
 ---
 layout: post
 title:  "Or maybe give them a read :)"
